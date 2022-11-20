@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("FirstMergeExample");
         System.out.println("its some more Diffcult");
+        System.out.println("second merge to Master");
     }
 }
